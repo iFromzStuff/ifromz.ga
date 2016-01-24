@@ -1,3 +1,3 @@
-# iFromzStuff.github.io
+# ifromz.ga
 
-iFromzStuff.github.io
+ifromz.ga
